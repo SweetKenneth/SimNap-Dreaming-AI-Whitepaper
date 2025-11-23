@@ -1,6 +1,6 @@
 SimNap: The World’s First Autonomous Dream-Cycle AI
 
-Whitepaper v1.0 — November 2025
+Whitepaper v1.4.1 — November 2025
 
 Author: Kenneth E Sweet Jr | Abilene, TX
 
