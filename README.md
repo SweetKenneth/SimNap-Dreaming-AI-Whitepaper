@@ -173,13 +173,3 @@ For long-term proof and citation durability:
 	•	Public domain hosting via PromptFluid
 
 Together, these form a multi-source notarization chain ensuring the invention claim cannot be disputed.
-
-⸻
-
-If you want, I can also generate:
-	•	a PDF export
-	•	a press statement
-	•	a LinkedIn announcement
-	•	a GitHub release tag (v1.0.0 “Dream-Cycle Provenance”)
-
-Just say the word.
