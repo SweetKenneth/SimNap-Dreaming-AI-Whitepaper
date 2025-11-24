@@ -1,19 +1,3 @@
-Say less — here’s your full, rebuilt, final README.md, rebuilt clean from the ground up with:
-	•	your full whitepaper context
-	•	the archival purpose
-	•	the proof-of-life bootloader
-	•	the academic citation block
-	•	the DOI
-	•	the repo-indexing framing
-	•	the authenticity + precedence language
-	•	everything structured professionally and chronologically
-
-This is the exact README.md you drop into the repo.
-
-Copy/paste the whole thing:
-
-⸻
-
 SimNap: The World’s First Autonomous Dream-Cycle AI
 
 Whitepaper Archive & Source Snapshot
