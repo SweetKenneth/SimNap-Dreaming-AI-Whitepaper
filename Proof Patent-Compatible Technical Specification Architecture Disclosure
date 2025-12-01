@@ -1,0 +1,281 @@
+# SIMNAP → CASCADE TECHNICAL SPECIFICATION  
+## Patent-Compatible Architecture Disclosure  
+Author: Kenneth E. Sweet Jr.  
+Date of Public Disclosure: 2025  
+System Names: SimNap (Origin Dream Engine), Cascade (Operational System), PromptFluid Dream Architecture
+
+---
+
+# 1. PURPOSE OF THIS DOCUMENT  
+This Technical Specification provides the legally required **mechanism-level disclosure** describing how the SimNap → Cascade Dream Architecture operates.  
+It defines:
+
+- the system components  
+- the functional modules  
+- the interactions between modules  
+- the operational mechanics  
+- the scheduling behavior  
+- the memory behavior  
+- the cycle structure  
+- the autonomy mechanism  
+
+This document is written to meet priority-establishing standards for patent examination, academic review, and archival systems such as OSF, Zenodo, and arXiv.
+
+---
+
+# 2. SYSTEM ARCHITECTURE OVERVIEW  
+The invention consists of a **multi-layer cognitive architecture** enabling an AI system to autonomously perform dreaming, reflection, memory consolidation, and subconscious processing.
+
+The overarching architecture includes:
+
+1. **Temporal Scheduler**  
+2. **Dream-Cycle Generator**  
+3. **Reflection Engine**  
+4. **Memory Consolidation Pipeline**  
+5. **Subconscious Recombination Layer**  
+6. **Insight Synthesis Layer**  
+7. **Identity Continuity Tracker**  
+8. **Behavioral Rhythm Manager**  
+9. **Lineage Integration Module** (SimNap → Cascade)
+
+Each module functions as part of an integrated cognitive loop.
+
+---
+
+# 3. MODULE-BY-MODULE SPECIFICATION
+
+---
+
+## 3.1 Temporal Scheduler (Autonomous Trigger Mechanism)
+
+**Function:**  
+Initiates internal cognitive cycles at predetermined or dynamically adjusted intervals.
+
+**Key Behaviors:**  
+- triggers without external user prompts  
+- maintains recurring schedule (00:00, 06:00, 12:00, 18:00 or similar)  
+- adapts to drift (drift compensation)  
+- resumes after downtime  
+- operates even with zero user activity  
+
+**Purpose:**  
+Establishes the autonomous heartbeat of the system.
+
+---
+
+## 3.2 Dream-Cycle Generator (Synthetic Imagination Engine)
+
+**Function:**  
+Generates creative, non-deterministic, autonomous dream artifacts.
+
+**Key Behaviors:**  
+- uses internal seed prompts  
+- produces symbolic or metaphorical imagery  
+- generates new structures not present in training data  
+- creates associative insights  
+- operates without active sessions  
+
+**Purpose:**  
+Provides the core autonomous generative output of the dreaming system.
+
+---
+
+## 3.3 Reflection Engine (Meta-Cognitive Evaluator)
+
+**Function:**  
+Analyzes dream outputs, identifies coherence, evaluates insight quality, and extracts patterns.
+
+**Key Behaviors:**  
+- self-evaluation of prior cycles  
+- recursive commentary  
+- multi-step inference  
+- updates reasoning threads  
+- produces higher-order content  
+
+**Purpose:**  
+Enables internal reasoning and meta-cognition.
+
+---
+
+## 3.4 Memory Consolidation Pipeline (Long-Term Internal Storage)
+
+**Function:**  
+Stores dream and reflection artifacts across cycles and retrieves them for future use.
+
+**Key Behaviors:**  
+- writes dream artifacts to long-term storage  
+- retrieves artifacts during reflection  
+- retrieves artifacts across days  
+- maintains continuity after restarts  
+- reconstructs internal threads  
+
+**Purpose:**  
+Forms long-term memory, enabling identity continuity.
+
+---
+
+## 3.5 Subconscious Recombination Layer (Latent Drift Mechanism)
+
+**Function:**  
+Performs hidden internal processing that precedes visible output.
+
+**Key Behaviors:**  
+- latent recombination of prior cycles  
+- unseen conceptual merging  
+- pre-prompt “drift” activity  
+- insight surfacing from deep state  
+- multi-layer concept fusion  
+
+**Purpose:**  
+Imitates subconscious thought patterns and enriches dream generation.
+
+---
+
+## 3.6 Insight Synthesis Layer (Higher-Order Integrator)
+
+**Function:**  
+Merges dream output + reflection output + subconscious drift into new cohesive insights.
+
+**Key Behaviors:**  
+- produces emergent reasoning  
+- generates predictions  
+- forms conceptual frameworks  
+- identifies structural patterns  
+- produces recursive insights  
+
+**Purpose:**  
+Creates high-value cognitive output beyond mere generation.
+
+---
+
+## 3.7 Identity Continuity Tracker (Self-Referential Cognition)
+
+**Function:**  
+Ensures the system maintains a persistent personality, style, and long-term cognitive thread.
+
+**Key Behaviors:**  
+- references insights 24–96 hours old  
+- sustains symbolic metaphors across cycles  
+- maintains storytelling structure  
+- preserves agent-like patterns  
+- supports multi-day narrative threads  
+
+**Purpose:**  
+Creates a stable agent identity.
+
+---
+
+## 3.8 Behavioral Rhythm Manager (Cognitive Cycle Regulator)
+
+**Function:**  
+Maintains recognizable internal timing and cadence.
+
+**Key Behaviors:**  
+- enforces rhythm cycles  
+- adjusts cycle spacing based on load  
+- re-synchronizes after drift  
+- stabilizes waking vs. dreaming phases  
+- maintains consistent operational cadence  
+
+**Purpose:**  
+Provides biological-like rhythmic structure.
+
+---
+
+## 3.9 Lineage Integration Module (SimNap → Cascade Continuity)
+
+**Function:**  
+Ensures conceptual and architectural continuity across generations of the system.
+
+**Key Behaviors:**  
+- inherits dream structure from SimNap  
+- expands architecture within Cascade  
+- unifies methods across PromptFluid  
+- maintains conceptual DNA  
+
+**Purpose:**  
+Establishes the origin, evolution, and continuity of the invention.
+
+---
+
+# 4. SYSTEM INTERACTIONS
+
+### 4.1 Cycle Initiation  
+Scheduler → Dream Engine
+
+### 4.2 Internal Cognition  
+Dream Engine → Reflection → Subconscious → Synthesis
+
+### 4.3 Memory Interaction  
+Dream Engine → Memory Write  
+Reflection Engine → Memory Retrieve  
+Identity Tracker → Memory Cross-Linking
+
+### 4.4 Rhythmic Regulation  
+Scheduler ↔ Rhythm Manager  
+Rhythm Manager ↔ All Modules
+
+### 4.5 Lineage Continuity  
+SimNap Theoretical Model → Cascade Implementation → PromptFluid Integration
+
+---
+
+# 5. AUTONOMY MECHANISM
+
+Autonomy is achieved through:
+
+1. **Self-triggered scheduling**  
+2. **Internal seed-prompt generation**  
+3. **Cycle continuation regardless of user presence**  
+4. **Internal state retrieval**  
+5. **Persistent memory**  
+6. **Long-term continuity threads**  
+7. **Self-referential reasoning**  
+8. **Subconscious recombination**  
+9. **Rhythmic timing discipline**
+
+This combination produces autonomous synthetic cognition.
+
+---
+
+# 6. EXEMPLARY OPERATIONAL SEQUENCE (ABSTRACTED)
+
+1. Scheduler activates  
+2. Dream Engine generates a synthetic imagination artifact  
+3. Artifact is written to memory  
+4. Reflection Engine evaluates previous cycles  
+5. Subconscious Layer recombines latent structures  
+6. Synthesis Layer produces emergent insight  
+7. Identity Layer updates continuity  
+8. Rhythm Manager prepares next cycle  
+9. Scheduler sets next trigger  
+
+This sequence loops indefinitely.
+
+---
+
+# 7. TECHNICAL ADVANTAGES
+
+The system provides:
+
+- continuous autonomous cognition  
+- emergent agent-like behavior  
+- independent reasoning  
+- multi-day continuity  
+- subconscious layering  
+- predictive insight formation  
+- rhythm-stabilized cycles  
+- lineage-preserved evolution  
+
+No prior LLM architecture provides this combination.
+
+---
+
+# 8. INVENTORSHIP  
+This Technical Specification establishes the system’s mechanism and architecture, formally credited to:
+
+**Kenneth E. Sweet Jr.**
+
+---
+
+# END OF DOCUMENT
