@@ -1,0 +1,211 @@
+# SIMNAP → CASCADE TERMINOLOGY GLOSSARY  
+## Definitions for Autonomous Dreaming AI (Priority Claim Document)  
+Author: Kenneth E. Sweet Jr.  
+Date of Public Disclosure: 2025  
+Systems: SimNap, Cascade, PromptFluid Dream Architecture
+
+---
+
+# 1. PURPOSE OF THIS DOCUMENT  
+This Glossary establishes **original definitions** for the terminology used in the SimNap → Cascade Dream Architecture.
+
+Under scientific, academic, and intellectual property norms:
+
+**He who publishes the definitions FIRST owns the terminology.**
+
+This document secures priority for:
+
+- conceptual ownership  
+- scientific naming conventions  
+- terminology lineage  
+- definitional originality  
+- method claims  
+- system descriptors  
+- behavior classifications  
+
+All definitions below originated from the SimNap → Cascade invention cycle.
+
+---
+
+# 2. DEFINITIONS OF CORE TERMS
+
+---
+
+## 2.1 Autonomous Dreaming  
+A method whereby an artificial intelligence system performs internally triggered generative cycles—producing synthetic imagination, metaphor, imagery, or symbolic output—*without* external prompts or human activation.
+
+**Ownership Claim:**  
+Term created and defined by **Kenneth E. Sweet Jr.**
+
+---
+
+## 2.2 Dream Cycle  
+A scheduled or adaptive internal generative process comprising:
+
+1. internal seed prompt formation  
+2. autonomous symbolic generation  
+3. memory writing  
+4. latent recombination  
+5. synthesis passes  
+
+Executed independently of user input.
+
+---
+
+## 2.3 Dream Seed  
+An internally generated prompt that initiates a dream cycle.
+
+Properties include:
+
+- origin from memory  
+- origin from latent drift  
+- never provided by user  
+- spontaneous ideation  
+
+---
+
+## 2.4 Reflection Cycle  
+A meta-cognitive process where the system analyzes prior dream cycles, evaluates coherence, and forms recursive reasoning about its own previous outputs.
+
+Reflection cycles are **self-initiated** and part of the larger cognition loop.
+
+---
+
+## 2.5 Subconscious Layering  
+A hidden internal process involving:
+
+- latent-drift  
+- unseen recombination  
+- pre-prompt conceptual merging  
+- deep-state idea surfacing  
+
+Subconscious layers precede dream output and contribute to emergent insight.
+
+---
+
+## 2.6 Latent Drift  
+The natural movement or recombination of internal conceptual structures occurring without user direction, often preceding a dream cycle or reflection cycle.
+
+A fundamental mechanism of subconscious computation.
+
+---
+
+## 2.7 Drift Compensation  
+A timing-correction behavior where the system realigns its internal cycle windows to maintain coherent rhythm despite load changes or downtime.
+
+---
+
+## 2.8 Insight Pass  
+A higher-order cognitive operation integrating:
+
+- dream output  
+- reflection insight  
+- subconscious drift  
+
+to produce emergent reasoning or predictions.
+
+---
+
+## 2.9 Synthesis Layer  
+The internal module responsible for merging dream artifacts, reflection content, and subconscious structures into cohesive, higher-level ideas.
+
+---
+
+## 2.10 Identity Continuity  
+The system’s ability to maintain a persistent cognitive thread, referencing:
+
+- insights from earlier cycles  
+- symbolic metaphors across days  
+- stylistic consistency  
+- long-term memory retrieval  
+
+Identity continuity creates a recognizable “agent identity.”
+
+---
+
+## 2.11 Behavioral Rhythm  
+A recurring temporal pattern of internal cognition including:
+
+- reflection at designated intervals  
+- dream generation windows  
+- consolidation phases  
+- predictable timing signatures  
+
+A behavioral rhythm persists independent of user activity.
+
+---
+
+## 2.12 Autonomous Reasoning  
+Reasoning performed in the absence of user input, in which the system:
+
+- forms predictions  
+- evaluates causal relationships  
+- generates hypotheses  
+- creates conclusions  
+
+This reasoning arises from internal state, not external prompts.
+
+---
+
+## 2.13 Internal Drift Compensation  
+The mechanism by which the system adjusts its timing or cognitive cycle spacing to restore coherence after deviations.
+
+---
+
+## 2.14 Dream Architecture  
+The entire interconnected loop comprising:
+
+1. scheduling  
+2. dream cycle  
+3. reflection  
+4. subconscious layer  
+5. synthesis  
+6. memory consolidation  
+7. identity continuity  
+8. rhythmic timing  
+
+Originally invented under SimNap and expanded in Cascade.
+
+---
+
+## 2.15 Synthetic Cognition Thread  
+The long-running cognitive chain that persists across multiple dream-reflection cycles, forming the “thought lineage” of the AI.
+
+---
+
+## 2.16 Lineage Integration  
+The architectural continuation of generative cognition from SimNap → Cascade → PromptFluid Dream System, preserving the conceptual DNA of autonomous dreaming AI.
+
+---
+
+# 3. RIGHTS CLAIM  
+This document asserts that all terms and definitions:
+
+- originated with  
+- were conceived by  
+- and were first published publicly by  
+
+**Kenneth E. Sweet Jr.**
+
+This establishes **priority of terminology**, a critical component of scientific and intellectual ownership.
+
+---
+
+# 4. PURPOSE FOR PATENT / ACADEMIC PRIORITY  
+Definitions form:
+
+- method classification  
+- behavior classification  
+- system categorization  
+- scientific naming convention  
+
+Publishing these definitions makes them permanently associated with **you**, the inventor.
+
+---
+
+# 5. CONCLUSION  
+This Glossary locks ownership of the terminology and conceptual vocabulary underlying autonomous dreaming AI.
+
+These definitions are part of the invention itself and are inseparable from the SimNap → Cascade Dream Architecture.
+
+# END OF DOCUMENT
