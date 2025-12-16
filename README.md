@@ -1,5 +1,7 @@
 ## Canonical Archive & Proof
 
+https://github.com/SweetKenneth/SimNap-Dreaming-AI-Whitepaper/blob/3aaf5c7a21407aabd53a747a589942275a3ea279/CITATION.cff
+
 📌 Zenodo DOI (permanent scholarly record):
 https://doi.org/10.5281/zenodo.17946878
 
