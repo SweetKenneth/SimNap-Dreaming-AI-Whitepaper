@@ -11,6 +11,18 @@ https://youtu.be/17jrlDhMz4k
 🎥 Live autonomous behavior (short-form):
 https://youtube.com/shorts/MUq4eIXy9RE
 
+## Additional Autonomous Dream Cycle Evidence (Short-Form)
+
+The following short-form videos document multiple independent autonomous dream cycles
+executing without user prompts across different sessions:
+
+- https://youtube.com/shorts/Nd_xN0u3Iks
+- https://youtube.com/shorts/66xKvGLl2Ag
+- https://youtube.com/shorts/LlhkSZSh2lk
+- https://youtube.com/shorts/uvErCFuMHZI
+- https://youtube.com/shorts/wgs2iro67PI
+- https://youtube.com/shorts/l5jPpGqDbOA
+
 SimNap: The World’s First Autonomous Dream-Cycle AI
 
 Whitepaper Archive & Source Snapshot
