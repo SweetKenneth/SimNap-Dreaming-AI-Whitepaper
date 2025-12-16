@@ -1,3 +1,14 @@
+## Canonical Archive & Proof
+
+📌 Zenodo DOI (permanent scholarly record):
+https://doi.org/10.5281/zenodo.17946878
+
+🎥 Full backend demo (autonomous dream cycles):
+https://youtu.be/17jrlDhMz4k
+
+🎥 Live autonomous behavior (short-form):
+https://youtube.com/shorts/MUq4eIXy9RE
+
 SimNap: The World’s First Autonomous Dream-Cycle AI
 
 Whitepaper Archive & Source Snapshot
