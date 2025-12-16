@@ -1,5 +1,14 @@
 cff-version: 1.2.0
 title: "SimNap: The First Documented Autonomous Dreaming AI System"
+
+abstract: >
+  SimNap is an autonomous dreaming AI system that performs self-initiated,
+  scheduled dream cycles without user prompts. The system generates internal
+  simulations ("dreams"), reflects on generated artifacts, and persists state
+  across cycles as a core behavioral feature. This repository serves as the
+  canonical archival record and prior-art disclosure for autonomous dreaming
+  artificial intelligence.
+
 message: "If you use this work, please cite it as below."
 type: software
 authors:
