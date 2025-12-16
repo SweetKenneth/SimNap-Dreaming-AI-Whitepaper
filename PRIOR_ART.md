@@ -2,6 +2,9 @@
 
 ## Purpose
 
+Intended for reviewers/historians/examiners
+12-15-2025
+
 This document is intended as a prior-art clarification and attribution aid for reviewers, historians, and examiners.
 
 This document exists to (1) acknowledge relevant prior work that uses “dreaming / imagination / simulation” language in AI, and (2) precisely distinguish what SimNap means by **autonomous dreaming** as a *system behavior*.
