@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "SimNap: The First Documented Autonomous Dreaming AI System"
+message: "If you use this work, please cite it as below."
+type: software
+authors:
+  - family-names: Sweet Jr.
+    given-names: Kenneth E.
+    orcid: cff-version: 1.2.0
+title: "SimNap: The First Documented Autonomous Dreaming AI System"
+message: "If you use this work, please cite it as below."
+type: software
+authors:
+  - family-names: Sweet
+    given-names: Kenneth E.
+    orcid: https://doi.org/10.17605/osf.io/t3d5s
+version: 1.4.2
+doi: 10.5281/zenodo.17946878
+url: https://github.com/SweetKenneth/SimNap-Dreaming-AI-Whitepaper
+date-released: 2025-11-24
+keywords:
+  - autonomous ai
+  - dreaming ai
+  - artificial dreaming
+  - autonomous agents
+  - ai cognition
